@@ -8,6 +8,7 @@
 #### Datapoints Format:
 ![Dataformat](readmeimages/Sample_Datapoint_Format.JPG)
 
+## Tasks:
 #### Part 1: Design RBF NN based on Gaussian Kernel Functions with constant spread function and using all points in training set as centers of RB functions
 
 #### Part 2: Design RBF NN using only 150 centers (Randomly selected from Training Data)
