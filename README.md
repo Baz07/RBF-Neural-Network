@@ -14,3 +14,5 @@
 #### Part 2: Design RBF NN using only 150 centers (Randomly selected from Training Data)
 
 #### Part 3: Design RNF NN using only 150 centers (Used KMeans Algorithm to find centers)
+
+## Detailed Training and Testing performance comaparison has been provided under "Analysis_Report" Directory.
